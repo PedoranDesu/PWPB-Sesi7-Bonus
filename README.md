@@ -1,5 +1,5 @@
 # PWPB-Sesi6
-Pembelajaran Android Ketujuh Part1 - Fragment
+Pembelajaran Android Kedelapan - Fragment
 
 Materi : Fragment + Bottom Nav Bar
 
